@@ -1,0 +1,1 @@
+export { withActiveModel } from './withActiveModel'
